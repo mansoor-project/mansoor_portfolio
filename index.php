@@ -89,7 +89,7 @@
         <h2>Education</h2>
         <div class="progress-container">
           <div class="progress" id="progress"></div>
-          <div class="circlep active">1<div id="stage" class="primary">primary</div><div id="stage2"class="primary2">St.josephs primary   -Bangalore</div></div>
+          <div class="circlep activec">1<div id="stage" class="primary">primary</div><div id="stage2"class="primary2">St.josephs primary   -Bangalore</div></div>
           <div class="circlep">2<div id="stage" class="high">Secondary 10th</div><div id="stage2"class="high2">St.josephs higher secondary   -Bangalore</div></div>
           <div class="circlep">3<div id="stage" class="plustwo"> 2nd pu</div><div id="stage2"class="plustwo2">Christ junior college   -Bangalore</div></div>
           <div class="circlep">4<div id="stage" class="grad"> gradution (Ongoing)</div><div id="stage2"class="grad2"> Dayanada sagar academy of technology and management   -Bangalore</div></div>
