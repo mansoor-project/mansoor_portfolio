@@ -575,10 +575,10 @@ animation: shake 2.5s linear infinite alternate ;
  
 }
 
-.circlep.active #stage{
+.circlep.activec #stage{
   color: red;
 }
-.circlep.active #stage2{
+.circlep.activec #stage2{
   visibility: visible;
   /* transition: 0.2s; */
   /* transition:0.3s linear; */
