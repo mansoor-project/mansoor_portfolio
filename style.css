@@ -670,7 +670,7 @@ left:-10px;
   z-index: 2;
 }
 
-.circlep.active {
+.circlep.activec {
   border-color: var(--line-border-fill);
   transition-delay: 0.3s;
 }
