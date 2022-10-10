@@ -266,6 +266,18 @@
   <div class="certipage"> 
     <div class="slider-container">
       <div class="left-slide">
+        <div style="background-color: #010101">
+          <h1>CELONIS</h1>
+          <p>Process Mining Fundamentals</p>
+        </div>
+        <div style="background-color: #010101">
+          <h1>CELONIS</h1>
+          <p>Deliver Bussiness Value</p>
+        </div>
+        <div style="background-color: #010101">
+          <h1>CELONIS</h1>
+          <p>Exection Management Consulting</p>
+        </div>
         <div style="background-color: #f05e35">
           <h1>PALO ALTO</h1>
           <p>SoC -Assesment</p>
@@ -298,23 +310,10 @@
           <h1>IBM</h1>
           <p>Block Chain Fundamentals</p>
         </div>
-        <div style="background-color: #010101">
-          <h1>CELONIS</h1>
-          <p>Process Mining Fundamentals</p>
-        </div>
-        <div style="background-color: #010101">
-          <h1>CELONIS</h1>
-          <p>Deliver Bussiness Value</p>
-        </div>
-        <div style="background-color: #010101">
-          <h1>CELONIS</h1>
-          <p>Exection Management Consulting</p>
-        </div>
+        
       </div>
       <div class="right-slide">
-        <div ><img src="images/celonis execution.jpg" alt=""></div>
-        <div ><img src="images/celonis bussiness.jpg" alt=""></div>
-        <div ><img src="images/celonis fundamentals.jpg" alt=""></div>
+     
         <div ><img src="images/IBM certificate.jpg" alt=""></div>
         <div ><img src="images/intro cs certi-1.jpg" alt=""></div>
         <div ><img src="images/Completion Android studio-1.jpg" alt=""></div>
@@ -323,6 +322,9 @@
         <div ><img src="images/cloud security 3-1.jpg" alt=""></div>
         <div ><img src="images/network 2certi-1.jpg" alt=""></div>
         <div ><img src="images/soc 4-1.jpg" alt=""></div>
+           <div ><img src="images/celonis execution.jpg" alt=""></div>
+        <div ><img src="images/celonis bussiness.jpg" alt=""></div>
+        <div ><img src="images/celonis fundamentals.jpg" alt=""></div>
         <!-- <div style="background-image: url('https://images.unsplash.com/photo-1508768787810-6adc1f613514?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e27f6661df21ed17ab5355b28af8df4e&auto=format&fit=crop&w=1350&q=80')"></div> -->
         <!-- <div style="background-image: url('https://images.unsplash.com/photo-1519981593452-666cf05569a9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=90ed8055f06493290dad8da9584a13f7&auto=format&fit=crop&w=715&q=80')"></div> -->
         <!-- <div style="background-image: url('https://images.unsplash.com/photo-1486899430790-61dbf6f6d98b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8ecdee5d1b3ed78ff16053b0227874a2&auto=format&fit=crop&w=1002&q=80')"></div> -->
