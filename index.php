@@ -298,8 +298,23 @@
           <h1>IBM</h1>
           <p>Block Chain Fundamentals</p>
         </div>
+        <div style="background-color: #010101">
+          <h1>CELONIS</h1>
+          <p>Process Mining Fundamentals</p>
+        </div>
+        <div style="background-color: #010101">
+          <h1>CELONIS</h1>
+          <p>Deliver Bussiness Value</p>
+        </div>
+        <div style="background-color: #010101">
+          <h1>CELONIS</h1>
+          <p>Exection Management Consulting</p>
+        </div>
       </div>
       <div class="right-slide">
+        <div ><img src="images/celonis execution.jpg" alt=""></div>
+        <div ><img src="images/celonis bussiness.jpg" alt=""></div>
+        <div ><img src="images/celonis fundamentals.jpg" alt=""></div>
         <div ><img src="images/IBM certificate.jpg" alt=""></div>
         <div ><img src="images/intro cs certi-1.jpg" alt=""></div>
         <div ><img src="images/Completion Android studio-1.jpg" alt=""></div>
