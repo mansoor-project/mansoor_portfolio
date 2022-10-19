@@ -32,7 +32,7 @@
 
     <div class="smhighlight">
       <p>MANSOOR AHMED</p>
-      <span>WEB DEVELOPER</span>
+      <span>WEB DEVELOPERrrr</span>
     </div>
     <nav>
       <ul>
